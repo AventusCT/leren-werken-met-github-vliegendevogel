@@ -29,4 +29,9 @@ th, td {
     text-align: left;
 }
 
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
 /* Student B zal hier extra stijlen toevoegen voor de ongeordende lijst */
