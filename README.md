@@ -4,4 +4,3 @@
 
 ## Beschrijving
 Dit project is er om te leren werken met github en te experimenteren hoe alles werkt!
-
