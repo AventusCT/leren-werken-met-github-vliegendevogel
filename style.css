@@ -58,5 +58,8 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
 }
-
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
 /* Student B zal hier extra stijlen toevoegen voor de ongeordende lijst */
